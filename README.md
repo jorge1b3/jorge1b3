@@ -1,7 +1,5 @@
 # Jorge Garcia (jorge1b3) 👨‍💻
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/jorge-andrey-garcia-vanegas-716350157)
-
 ## About Me
 
 Systems Engineering student with a passion for technology and software development. My interests span across DevOps practices, Linux systems, artificial intelligence, computer vision, and backend development.
