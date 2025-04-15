@@ -20,11 +20,11 @@ Systems Engineering student with a passion for technology and software developme
 
 ## My Learning Journey
 
-<p align="center">
+[<p align="center">
   <a href="https://roadmap.sh">
     <img src="https://api.roadmap.sh/v1-badge/wide/64b3071d9a1017508d209fcb?variant=dark&roadmaps=linux%2Cbackend%2Cpython%2Cdevops" alt="roadmap.sh">
   </a>
-</p>
+</p>](https://roadmap.sh/card/wide/64b3071d9a1017508d209fcb?variant=dark&roadmaps=python%2Clinux%2Cdevops%2Cai-data-scientist)
 
 ## GitHub Stats
 
